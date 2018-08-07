@@ -1,0 +1,136 @@
+[
+    {
+        "image": "http://p0.meituan.net/600.600/deal/abf93a15f76ada41eb417032569b2e37483309.jpg@220w_125h_1e_1c",
+        "name": "洪湖藕王",
+        "star": 4912,
+        "pickup": true,
+        "salesCount": 4912,
+        "timeUsed": 38,
+        "distance": 1.8,
+        "startFee": 18,
+        "transportFee": 1,
+        "giveMeMoney": 500
+    },
+    {
+        "image": "http://p1.meituan.net/600.600/deal/3744e33490365972c0dd3bc6eda19822297065.jpg@220w_125h_1e_1c",
+        "name": "一叶清粥",
+        "star": 2613,
+        "pickup": false,
+        "salesCount": 2613,
+        "timeUsed": 52,
+        "distance": 2.4,
+        "startFee": 28,
+        "transportFee": 4,
+        "giveMeMoney": 400
+    },
+    {
+        "image": "http://p0.meituan.net/600.600/deal/dbcf7d5e623fc19e3e3adcd94a2baed1335590.jpg@220w_125h_1e_1c",
+        "name": "卡兹甜甜圈",
+        "star": 3656,
+        "pickup": false,
+        "salesCount": 3656,
+        "timeUsed": 33,
+        "distance": 1.6,
+        "startFee": 18,
+        "transportFee": 2,
+        "giveMeMoney": 300
+        
+    },
+    {
+        "image": "http://p0.meituan.net/600.600/deal/201301/25/175128_7646860.jpg@220w_125h_1e_1c",
+        "name": "喜来蛋糕",
+        "star": 9188,
+        "pickup": true,
+        "salesCount": 9188,
+        "timeUsed": 24,
+        "distance": 0.9,
+        "startFee": 50,
+        "transportFee": 1,
+        "giveMeMoney": 200
+        
+    },
+    {
+        "image": "http://p0.meituan.net/600.600/deal/00ebe526cc6c81f9975bcc6812351677442413.jpg@220w_125h_1e_1c",
+        "name": "过桥郎米线",
+        "star": 3566,
+        "pickup": true,
+        "salesCount": 3566,
+        "timeUsed": 43,
+        "distance": 1.1,
+        "startFee": 20,
+        "transportFee": 1,
+        "giveMeMoney": 100
+    },
+    {
+        "image": "http://p0.meituan.net/600.600/deal/5772a881628d910d78853bd596cb97c6348754.jpg@220w_125h_1e_1c",
+        "name": "上黄焖鸡饭",
+        "star": 3566,
+        "pickup": true,
+        "salesCount": 3566,
+        "timeUsed": 43,
+        "distance": 1.1,
+        "startFee": 16,
+        "transportFee": 0,
+        "giveMeMoney": 100
+    },
+    {
+        "image": "http://p0.meituan.net/600.600/mogu/938788b5a7a8909987dcaec6dfbac85520600.jpg@220w_125h_1e_1c",
+        "name": "川香鸡",
+        "star": 3566,
+        "pickup": true,
+        "salesCount": 3566,
+        "timeUsed": 43,
+        "distance": 1.1,
+        "startFee": 13,
+        "transportFee": 2,
+        "giveMeMoney": 100
+    },
+    {
+        "image": "http://p0.meituan.net/600.600/deal/f09c70d4435c668aec11d69c35518e32366680.jpg@220w_125h_1e_1c",
+        "name": "华莱士",
+        "star": 3566,
+        "pickup": true,
+        "salesCount": 3566,
+        "timeUsed": 43,
+        "distance": 1.1,
+        "startFee": 18,
+        "transportFee": 2,
+        "giveMeMoney": 100
+    },
+    {
+        "image": "http://p0.meituan.net/600.600/mogu/a645539f657cd698563a60e997f76c2b51380.jpg@220w_125h_1e_1c",
+        "name": "过桥缘",
+        "star": 3566,
+        "pickup": true,
+        "salesCount": 3566,
+        "timeUsed": 43,
+        "distance": 1.1,
+        "startFee": 29,
+        "transportFee": 0,
+        "giveMeMoney": 100
+    },
+    {
+        "image": "http://p0.meituan.net/600.600/deal/454cead66cc58fdd1eabf8bc7942d0de327119.jpg@220w_125h_1e_1c",
+        "name": "徐记萝卜牛杂",
+        "star": 3566,
+        "pickup": true,
+        "salesCount": 3566,
+        "timeUsed": 43,
+        "distance": 1.1,
+        "startFee": 15,
+        "transportFee": 1,
+        "giveMeMoney": 100
+    },
+    {
+        "image": "http://p0.meituan.net/600.600/deal/ee8b2eac6b07bdab81ebe870dcfc2f3a163430.jpg@220w_125h_1e_1c",
+        "name": "三顾冒菜",
+        "star": 3566,
+        "pickup": true,
+        "salesCount": 3566,
+        "timeUsed": 43,
+        "distance": 1.1,
+        "startFee": 20,
+        "transportFee": 0,
+        "giveMeMoney": 100
+    }
+]

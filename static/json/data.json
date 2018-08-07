@@ -1,0 +1,171 @@
+{ "foodClassify":[
+    {
+        "classifyList":"粤菜",
+        "list":[{
+            "img": "http://p0.meituan.net/600.600/deal/5772a881628d910d78853bd596cb97c6348754.jpg@220w_125h_1e_1c",
+            "name": "上黄焖鸡饭",
+            "price":"28"
+        },
+        {
+            "img": "http://p0.meituan.net/600.600/deal/00ebe526cc6c81f9975bcc6812351677442413.jpg@220w_125h_1e_1c",
+            "name": "过桥郎米线",
+            "price":"12"
+            
+        },
+        {
+            "img": "http://p0.meituan.net/600.600/deal/fed762dbf135181abdfc6142d8dbe7be409112.jpg@220w_125h_1e_1c",
+            "name": "故里荣城冒菜",
+            "price":"32"
+            
+        },
+        {
+            "img": "http://p0.meituan.net/600.600/deal/073ccec701c77632bcae2c4830e0d8a5501930.jpg@220w_125h_1e_1c",
+            "name": "大懒人冒菜",
+            "price":"26"
+           
+        },
+        {
+            "img": "http://p0.meituan.net/600.600/deal/f09c70d4435c668aec11d69c35518e32366680.jpg@220w_125h_1e_1c",
+            "name": "华莱士",
+            "price":"48"
+            
+        },
+        {
+            "img": "http://p0.meituan.net/600.600/deal/e5946f7b106c55acdeb1fca9aeadcde2452100.jpg@220w_125h_1e_1c",
+            "name": "正宗苏稽跷脚牛肉汤锅" ,
+            "price":"188"
+    
+        },
+        {
+            "img": "http://p1.meituan.net/600.600/deal/3744e33490365972c0dd3bc6eda19822297065.jpg@220w_125h_1e_1c",
+            "name": "一叶清粥" ,
+            "price":"18"       
+        }
+    ]
+    },
+    {
+        "classify-list":"火锅",
+        "list":[ {
+            "img": "http://p0.meituan.net/600.600/deal/073ccec701c77632bcae2c4830e0d8a5501930.jpg@220w_125h_1e_1c",
+            "name": "大懒人冒菜",
+            "price":"26"
+           
+        },
+        {
+            "img": "http://p0.meituan.net/600.600/deal/f09c70d4435c668aec11d69c35518e32366680.jpg@220w_125h_1e_1c",
+            "name": "华莱士",
+            "price":"48"
+            
+        },
+        {
+            "img": "http://p0.meituan.net/600.600/deal/e5946f7b106c55acdeb1fca9aeadcde2452100.jpg@220w_125h_1e_1c",
+            "name": "正宗苏跷脚牛肉汤锅" ,
+            "price":"188"
+    
+        },
+        {
+            "img": "http://p1.meituan.net/600.600/deal/3744e33490365972c0dd3bc6eda19822297065.jpg@220w_125h_1e_1c",
+            "name": "一叶清粥" ,
+            "price":"18"       
+        },
+        {
+            "img": "http://p0.meituan.net/600.600/deal/__27932800__4183483.jpg@220w_125h_1e_1c",
+            "name": "武陵山珍" ,
+            "price":"59"       
+        },
+        {
+            "img": "http://p0.meituan.net/600.600/deal/b508ebbde5c44dc00bc3a96d52272cf8438029.jpg@220w_125h_1e_1c",
+            "name": "老坛子酸菜竹子鸡",
+            "price":"48"        
+        },
+        {
+            "img": "http://p1.meituan.net/600.600/deal/200a0a2611532e006e2c4bd5b88b308c420779.jpg@220w_125h_1e_1c",
+            "name": "二妹山珍野菌汤",
+            "price":"49"        
+        }
+    ]
+    },
+    {
+        "classify-list":"东北菜",
+        "list":[{
+            "name":"小乔砂锅",
+            "price":"28",
+            "img":"http://p0.meituan.net/600.600/merchantpic/b694961aa497e0a07ad769ecb5c883f8106763.jpg@220w_125h_1e_1c"
+        },
+        {
+            "name":"东北人家",
+            "price":"33",
+            "img":"http://p1.meituan.net/600.600/deal/cebd5a8c01105aee0a3bddfd9c25699f268541.jpg@220w_125h_1e_1c"
+        },
+        {
+            "name":"曹家棒子骨",
+            "price":"35",
+            "img":"http://p0.meituan.net/600.600/deal/856f80dd3e6ea57dff6b91ecaeb6364b491498.jpg@220w_125h_1e_1c"
+        },
+        {
+            "name":"砂锅缘",
+            "price":"20",
+            "img":"http://p0.meituan.net/600.600/mogu/7a4158c8ed9b5d79d1527bd76deb962f92471.jpg@220w_125h_1e_1c"
+        }
+    ]
+    },
+    {
+        "classify-list":"海鲜",
+        "list":[{
+            "name":"水货-香辣蟹",
+            "price":"98",
+            "img":"http://p0.meituan.net/600.600/mogu/30c00ce22f42f980cfd39a5b6714911f52849.jpg@220w_125h_1e_1c"
+        },
+        {
+            "name":"张鲢鱼",
+            "price":"35",
+            "img":"http://p1.meituan.net/600.600/deal/__48438380__9271736.jpg@220w_125h_1e_1c"
+        },
+        {
+            "name":"四海一家",
+            "price":"156",
+            "img":"http://p0.meituan.net/600.600/poi/7d5950696367651549cacb50b37e5f5e233730.jpg@220w_125h_1e_1c"
+        },
+        {
+            "name":"美食驿站",
+            "price":"49",
+            "img":"http://p1.meituan.net/600.600/deal/4d27540e523a2b86b74d4265d52a1c5b517861.jpg@220w_125h_1e_1c"
+        },
+        {
+            "name":"快乐家族牛排海鲜自助餐",
+            "price":"67",
+            "img":"http://p1.meituan.net/600.600/mogu/07917ff5fd9f9090e790295ed6cb839f132276.jpg@220w_125h_1e_1c"
+        }
+    ]
+    },
+    {
+        "classify-list":"西餐",
+        "list":[{
+            "name":"烈火炙烤牛排",
+            "price":"68",
+            "img":"http://p0.meituan.net/600.600/deal/da2040da7448390f709f4625be07cedc402533.jpg@220w_125h_1e_1c"
+        },
+        {
+            "name":"法派郎西餐厅",
+            "price":"80",
+            "img":"http://p1.meituan.net/600.600/deal/201301/09/152834_8978943.jpg@220w_125h_1e_1c"
+        },
+        {
+            "name":"候鸟咖啡",
+            "price":"48",
+            "img":"http://p0.meituan.net/600.600/deal/7d07607be3b586bd8c062671ba0679ec261780.jpg@220w_125h_1e_1c"
+        },
+        {
+            "name":"欧若拉牛排红酒餐厅",
+            "price":"49",
+            "img":"http://p1.meituan.net/600.600/deal/7210cd316075faf559a87d96caa56dec352296.jpg@220w_125h_1e_1c"
+        },
+        {
+            "name":"上牛铁板烧",
+            "price":"109",
+            "img":"http://p1.meituan.net/600.600/deal/6a5df3190bdada3b1578146359c0eb62477441.jpg@220w_125h_1e_1c"
+        }
+    ]
+    }
+ ]
+}
